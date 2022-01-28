@@ -3,3 +3,5 @@ Code for analyzing data from the Laser Spectrum Analyzer (LSA) by High Finesse. 
 
 
 ![Structure of the ASCII file](https://github.com/ncan33/matlabHighFinesse/blob/main/images/image1.png?raw=true | width=100)
+
+<img src="https://github.com/ncan33/matlabHighFinesse/blob/main/images/image1.png?raw=true" width="100" height="100">
