@@ -1,2 +1,2 @@
-# matlabHighFinesse
-Useful code for analyzing data from the Laser Spectrum Analyzer (LSA) by High Finesse. This code converts the raw text file in ASCII format to a large matrix. This allows for easy data analysis.
+# MATLAB parsing of raw Laser Spectrum Analyzer output
+Code for analyzing data from the Laser Spectrum Analyzer (LSA) by High Finesse. The LSA outputs a raw text file in ASCII format. This is inconvenient and poorly formatted, which is hard for researchers to easily interface with. This code converts the text file to a MATLAB matrix.
