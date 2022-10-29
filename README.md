@@ -1,5 +1,5 @@
 # MATLAB parsing of raw Laser Spectrum Analyzer output
-Code for analyzing data from the Laser Spectrum Analyzer (LSA) by High Finesse. The LSA outputs a raw text file in ASCII format. This is inconvenient and poorly formatted, which is hard for researchers to easily interface with. This code converts the text file to a MATLAB matrix.
+Code for analyzing data from the Laser Spectrum Analyzer (LSA) by High Finesse. The LSA outputs a raw text file in ASCII format. This code converts the text file to a MATLAB matrix.
 
 The raw ASCII file will have a ```.ltx``` file format. When the ```.ltx``` file is converted to a raw text file, it will be millions of lines long. The following figure shows the structure of the text file. The yellow regions are populated with data, whereas the green regions are used as markers for the yellow regions. 
 
